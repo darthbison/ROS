@@ -1,0 +1,6 @@
+<launch>
+    <param name="/number_publish_frequency" type="double" value="3.0" />
+    <param name="/robot_name" type="string" value="Test Robot" />
+
+    <node name="first_node" pkg="my_robot_tutorials" type="node_cpp" />
+</launch>
