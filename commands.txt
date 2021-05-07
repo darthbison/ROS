@@ -1,0 +1,11 @@
+  rosnode list
+  rosnode info first_python_node
+  rosnode kill first_python_node
+  rosrun rqt_graph rqt_graph
+  rosrun turtlesim
+  rosrun turtlesim turtlesim_node
+  rospack
+  
+
+
+ 
